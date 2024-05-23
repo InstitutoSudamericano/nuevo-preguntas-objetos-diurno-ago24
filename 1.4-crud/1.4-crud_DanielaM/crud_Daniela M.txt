@@ -1,0 +1,40 @@
+___Arquitectura Prisma___
+
+¿Cuál es el componente de Prisma.io que proporciona una interfaz de programación de aplicaciones (API) para interactuar con la base de datos y simplifica las consultas a la base de datos?
+
+a) Prisma Client
+
+b) Prisma Schema
+
+c) Prisma Migrate
+
+d) Prisma Studio
+
+Respuesta justificada: El componente de Prisma.io que proporciona una interfaz de programación de aplicaciones (API) para interactuar con la base de datos y simplifica las consultas a la base de datos es el Prisma Client.
+
+¿Qué componente de Prisma.io proporciona una forma declarativa de gestionar los cambios en el esquema de la base de datos?
+
+a) Prisma Client
+
+b) Prisma Schema
+
+c) Prisma Migrate
+
+d) Prisma Studio
+
+Respuesta justificada: El componente de Prisma.io que proporciona una forma declarativa de gestionar los cambios en el esquema de la base de datos es Prisma Migrate
+.
+
+¿Cuál es el componente de Prisma.io que facilita la exploración y administración de los datos de la base de datos a través de una interfaz de usuario gráfica?
+
+a) Prisma Client
+
+b) Prisma Schema
+
+c) Prisma Migrate
+
+d) Prisma Studio
+
+Respuesta justificada: El componente de Prisma.io que facilita la exploración y administración de los datos de la base de datos a través de una interfaz de usuario gráfica es Prisma Studio
+
+[Link video](https://youtu.be/yNNsmT0QfQk)

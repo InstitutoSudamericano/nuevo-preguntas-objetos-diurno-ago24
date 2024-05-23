@@ -1,0 +1,22 @@
+¿Cómo se relaciona la teoría de la herencia en programación orientada a objetos con la comunicación entre componentes en sistemas de software?
+A) La herencia permite que los componentes se comuniquen directamente entre sí.
+B) La herencia facilita la comunicación al compartir funcionalidades comunes.
+C) La herencia impide la comunicación entre componentes.
+D) La herencia es irrelevante para la comunicación entre componentes.
+Respuesta correcta: B) La herencia facilita la comunicación al compartir funcionalidades comunes.
+
+¿Por qué es importante la reflexión en tiempo de ejecución en la teoría de la comunicación entre componentes en sistemas de software?
+A) Permite a los componentes comunicarse de forma estática.
+B) Facilita la adaptabilidad de los componentes a diferentes situaciones.
+C) Impide que los componentes cambien su comportamiento.
+D) La reflexión no es importante en la comunicación entre componentes.
+Respuesta correcta: B) Facilita la adaptabilidad de los componentes a diferentes situaciones.
+
+¿Cómo se puede comparar la comunicación entre componentes en sistemas de software con la interacción entre miembros de una familia en términos de herencia y características únicas?
+A) Los componentes no pueden heredar propiedades de otros componentes.
+B) Los miembros de una familia no tienen características únicas.
+C) Los componentes pueden tener funcionalidades únicas, al igual que los miembros de una familia.
+D) La comunicación entre componentes y la interacción familiar son conceptos completamente diferentes.
+Respuesta correcta: C) Los componentes pueden tener funcionalidades únicas, al igual que los miembros de una familia.
+
+https://youtu.be/urCtsCBDgI0
