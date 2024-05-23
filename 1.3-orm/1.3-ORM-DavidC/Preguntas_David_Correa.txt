@@ -1,0 +1,29 @@
+## David Correa
+---
+4. ¿Qué decorador se utiliza en Prisma para definir una propiedad como clave primaria?
+
+- [ ] @primary
+- [ ] @id
+- [ ] @key
+
+**Explicación**: b) @id  
+El decorador `@id` se utiliza en Prisma para definir una propiedad como la clave primaria de un modelo.
+
+5. ¿Cuál de las siguientes opciones describe correctamente cómo se definen las relaciones uno a muchos (1:N) en Prisma?
+
+- [ ] Utilizando la sintaxis `@relation`
+- [ ] Utilizando la sintaxis `[]` en el lado "muchos" de la relación
+- [ ] Utilizando la sintaxis `@oneToMany`
+
+**Explicación**: b) Utilizando la sintaxis `[]` en el lado "muchos" de la relación  
+En Prisma, las relaciones uno a muchos se definen utilizando la sintaxis `[]` en el lado "muchos" de la relación.
+
+6. ¿Qué herramienta de Prisma se utiliza para explorar y administrar los datos de la base de datos de forma visual?
+
+- [ ] Prisma Studio
+- [ ] Prisma CLI
+- [ ] Prisma Playground
+
+
+**Explicación**: a) Prisma Studio  
+Prisma Studio es una herramienta visual que permite explorar y administrar los datos de la base de datos, así como ejecutar consultas y mutaciones directamente desde una interfaz gráfica de usuario.
