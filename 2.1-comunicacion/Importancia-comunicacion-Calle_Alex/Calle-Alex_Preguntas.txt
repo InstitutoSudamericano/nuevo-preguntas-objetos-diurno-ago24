@@ -1,0 +1,27 @@
+Preguntas sobre Comunicación entre Componentes en Angular
+
+youtube: "https://youtu.be/7J8MBnJAjXM"
+
+1. ¿Cuál son las razones por la que los componentes en Angular necesitan comunicarse entre sí? 
+
+		a) Para compartir datos 
+		b) Para realizar acciones coordinadas 
+		c) Para mantener la consistencia y coherencia de la aplicación 
+		d) Todas las anteriores
+		Respuesta: d) Todas
+
+2. ¿Cuál es una forma de comunicar componentes en Angular?
+
+		a) Utilizando servicios 
+		b) Utilizando eventos 
+		c) Inyectando dependencias 
+		d) Todas las anteriores
+		Respuesta: d) Todas las anteriores 
+
+3. ¿Con que tipo de comunicacion humana podemos comparar a la comunicacion entre componentes en Angular? 
+
+		a) Idiomas y gestos 
+		b) Lenguaje natural y matemáticas 
+		c) Programación y diseño 
+		d) Ingeniería y arquitectura
+		Respuesta: a) Idiomas y gestos

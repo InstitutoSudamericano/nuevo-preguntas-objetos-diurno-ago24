@@ -1,0 +1,20 @@
+Preguntas semana2
+by: Calle Alex  youtube: https://youtu.be/Nb6t-j13xvs
+
+1.¿Cuál es el propósito principal del decorador @Controller() en NestJS? 
+a) Definir una clase como un servicio 
+b) Definir una clase como un controlador 
+c) Definir una clase como un módulo 
+RESPUESTA: b) Definir una clase como un controlador
+
+2.¿Qué tipo de solicitud HTTP maneja el decorador @Get() en NestJS? 
+a) POST 
+b) PUT 
+c) GET 
+RESPUESTA: c) GET
+
+3.¿Cuál de los siguientes decoradores se utiliza para inyectar el cuerpo de una solicitud HTTP en un método de controlador en NestJS? 
+a) @Param() 
+b) @Body() 
+c) @HttpCode() 
+RESPUESTA: b) @Body()

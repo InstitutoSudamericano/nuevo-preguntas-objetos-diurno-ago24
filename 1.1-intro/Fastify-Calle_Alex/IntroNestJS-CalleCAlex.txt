@@ -1,0 +1,24 @@
+Preguntas Semana 1
+
+Preguntas reflexivas
+
+¿Qué tipo de arquitectura promueve Express.js en comparación con Fastify.js? 
+a. Orientada a servicios 
+b. Basada en microservicios 
+c. Monolítica 
+d. Basada en eventos 
+Respuesta: c. Monolítica
+
+¿Cuál de los siguientes es un marco de servidor web JavaScript que es conocido por su enfoque minimalista y su velocidad extremadamente rápida? 
+a. Express.js
+ b. Fastify.js
+ c. Koa.js 
+d. Hapi.js 
+Respuesta: b. Fastify.js
+
+¿Cuál de los siguientes marcos de servidor web JavaScript es más popular en la comunidad de Node.js? 
+a. Express.js 
+b. Fastify.js 
+c. Koa.js 
+d. Nest.js
+ Respuesta: a. Express.js
