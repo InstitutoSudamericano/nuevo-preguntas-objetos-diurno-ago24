@@ -1,0 +1,27 @@
+Preguntas
+¿Cuál es la principal ventaja de utilizar servicios en NestJS en comparación con la implementación de lógica directamente en los controladores?
+a) Mayor velocidad de ejecución.
+b) Facilita la escalabilidad de la aplicación.
+c) Requiere menos código.
+d) Mejora la seguridad de la aplicación.
+
+Respuesta correcta: b) Facilita la escalabilidad de la aplicación.
+
+¿Qué método de ciclo de vida se ejecuta cuando un servicio de NestJS es creado por primera vez?
+a) ngOnInit()
+b) constructor()
+c) onInit()
+d) initialize()
+
+Respuesta correcta: b) constructor()
+
+¿Cuál es la forma preferida de manejar la lógica de negocio en NestJS?
+a) Dentro de los controladores
+b) Directamente en las rutas de la API
+c) En los interceptores
+d) Mediante servicios separados
+
+Respuesta correcta: d) Mediante servicios separados
+
+Link:https://youtu.be/tanmC-7dTTM 
+

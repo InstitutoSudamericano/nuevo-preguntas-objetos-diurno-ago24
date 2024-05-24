@@ -1,0 +1,23 @@
+Preguntas
+¿Cuál es la función principal de la librería Cats en TypeScript? 
+a) Manejar operaciones CRUD en una base de datos relacional.
+b) Facilitar la gestión de errores en aplicaciones TypeScript.
+c) Proporcionar funcionalidades de tipado más avanzadas en TypeScript. 
+d) Ninguna de las anteriores.
+Respuesta correcta: b) Facilitar la gestión de errores en aplicaciones TypeScript.
+¿Cuál de las siguientes palabras clave se utiliza en TypeScript para definir una interfaz? 
+a) interface
+b) class
+c) type 
+d) implements
+Respuesta correcta: a) interface
+En el contexto de una solicitud HTTP, ¿cuál de las siguientes operaciones se utiliza típicamente para crear un nuevo recurso en el servidor? 
+a) GET 
+b) PUT 
+c) POST 
+d) DELETE
+Respuesta correcta: c) POST
+
+Link: https://youtu.be/_S46tt41iIo 
+
+

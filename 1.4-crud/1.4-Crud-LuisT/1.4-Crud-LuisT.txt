@@ -1,0 +1,25 @@
+Preguntas 
+Luis Tinoco 
+
+¿Cuál es la forma más común de definir un prisma en TypeScript?
+a) Mediante una clase
+b) Utilizando una interfaz
+c) A través de una función
+d) Por medio de un módulo
+Respuesta: a) Mediante una clase
+
+¿Qué es un prisma en el contexto de TypeScript?
+a) Una herramienta de visualización de datos
+b) Una estructura de datos geométrica
+c) Una función matemática para calcular áreas
+d) Una estructura que define la forma y los datos asociados
+Respuesta: d) Una estructura que define la forma y los datos asociados
+
+¿Qué tipo de datos pueden ser definidos dentro de un prisma en TypeScript?
+a) Solo números y cadenas de texto
+b) Cualquier tipo de datos primitivos
+c) Solo objetos complejos
+d) Solo funciones y métodos
+Respuesta: b) Cualquier tipo de datos primitivos
+
+Link: https://youtu.be/QWjM0CmM09s
