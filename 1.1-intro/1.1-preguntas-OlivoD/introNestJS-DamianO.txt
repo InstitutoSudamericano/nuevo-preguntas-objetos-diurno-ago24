@@ -1,0 +1,27 @@
+Preguntas Semana #1 POO
+¿Qué tecnologías utiliza NestJS para el desarrollo de aplicaciones del lado del servidor Node.js?
+
+A) JavaScript progresivo
+B) TypeScript
+C) Java
+
+B) TypeScript
+NestJS utiliza TypeScript para el desarrollo de aplicaciones del lado del servidor Node.js. TypeScript es un superset de JavaScript que agrega tipos estáticos opcionales y otras características a JavaScript.
+
+¿Qué marcos de servidor HTTP utiliza NestJS de forma predeterminada?
+
+A) Fastify
+B) Koa
+C) Express
+
+C) Express
+NestJS utiliza Express como su marco de servidor HTTP de forma predeterminada. Express es uno de los marcos web más populares para Node.js y proporciona una capa de abstracción sobre el servidor HTTP nativo de Node.js.
+
+¿Qué proporciona NestJS a los desarrolladores en términos de flexibilidad y abstracción sobre los marcos comunes de Node.js?
+
+A) Limita el uso de módulos de terceros
+B) Expone directamente las API de Express y Fastify
+C) Permite una variedad de módulos de terceros para la plataforma subyacente
+
+C) Permite una variedad de módulos de terceros para la plataforma subyacente
+NestJS proporciona flexibilidad y abstracción permitiendo una variedad de módulos de terceros para la plataforma subyacente de Node.js.
