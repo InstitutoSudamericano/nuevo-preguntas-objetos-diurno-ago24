@@ -1,0 +1,26 @@
+# David Correa
+---
+
+4. ¿Qué eventos del ciclo de vida se utilizan específicamente para manejar la inicialización y verificación de cambios en los componentes hijos?
+
+a) ngOnInit y ngDoCheck
+b) ngAfterContentInit y ngAfterContentChecked
+c) ngAfterViewInit y ngAfterViewChecked
+
+La respuesta verdadera es: b) Porque estos eventos están específicamente diseñados para manejar la inicialización y la verificación de cambios en el contenido de los componentes hijos.
+
+5. ¿Qué ocurre si no implementamos las funciones de interfaz en nuestra clase de componente durante la compilación del código TypeScript?
+
+a) El navegador mostrará un error
+b) Se generará un error de compilación
+c) No ocurrirá nada
+
+Respuesta correcta: b) Porque TypeScript verifica que todas las clases que implementan una interfaz proporcionen las implementaciones necesarias para los métodos definidos en dicha interfaz. Si no lo hacen, el compilador de TypeScript arroja un error durante la compilación, garantizando así la integridad del código.
+
+6. ¿En cuál fase del ciclo de vida de un componente Angular se incluyen los eventos ngOnInit y ngOnDestroy?
+
+a) Fase de los Hijos del Componente
+b) Fase del Componente Mismo
+c) Fase de Inicialización
+
+Respuesta correcta: b) Porque tanto ngOnInit como ngOnDestroy son eventos del ciclo de vida que se enfocan en la inicialización y destrucción del propio componente.
