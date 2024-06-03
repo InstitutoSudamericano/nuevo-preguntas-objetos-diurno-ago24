@@ -1,0 +1,29 @@
+Preguntas
+
+youtube: https://youtu.be/ESHwNO8rAnE
+
+1. ¿Cuál es el propósito principal de la validación de formularios en programación?
+
+a) Hacer que el formulario se vea más atractivo
+b) Aumentar el número de campos en el formulario
+c) Asegurar que los datos ingresados sean correctos y cumplan con los criterios esperados
+d) Enviar los datos del formulario más rápidamente
+Respuesta correcta: c) Asegurar que los datos ingresados sean correctos y cumplan con los criterios esperados.
+
+
+2. En el contexto de formularios web, ¿qué hace el atributo action en la etiqueta <form>?
+
+a) Define el estilo visual del formulario
+b) Especifica la URL a la que se enviarán los datos del formulario cuando se envíe
+c) Establece el tipo de cifrado para los datos del formulario
+d) Determina qué campos son obligatorios
+Respuesta correcta: b) Especifica la URL a la que se enviarán los datos del formulario cuando se envíe.
+
+
+3. ¿Cuál de las siguientes NO es una técnica común para manejar el estado de un formulario en frameworks modernos de JavaScript como React, Vue o Angular?
+
+a) Two-way data binding
+b) Controlled components
+c) Direct DOM manipulation
+d) Reactive forms
+Respuesta correcta: c) Direct DOM manipulation
