@@ -43,3 +43,6 @@ D) Los formularios basados en plantillas no permiten el uso de validadores asinc
 **Respuesta correcta:** C  
 **Explicación:** En los formularios basados en plantillas en Angular, es común utilizar directivas como `required`, `minlength` y `maxlength` directamente en el archivo HTML para definir las reglas de validación. Esto permite una manera declarativa y sencilla de aplicar validaciones a los campos del formulario. Las opciones A y D son incorrectas porque sí es posible definir validaciones personalizadas y asincrónicas en formularios basados en plantillas. La opción B es incorrecta porque las validaciones en formularios basados en plantillas se definen principalmente en el HTML, no en el archivo TypeScript.
 ~~~
+
+LINK DEL VIDEO:
+https://youtu.be/Y15McUu6D2s
