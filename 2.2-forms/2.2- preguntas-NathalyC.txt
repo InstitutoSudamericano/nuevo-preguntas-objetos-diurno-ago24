@@ -1,0 +1,37 @@
+
+Pregunta 1
+¿Qué puede configurar al ejecutar el comando ng add ng-zorro-antd?
+
+A) Solo puede configurar los módulos iniciales.
+
+B) Puede configurar los ajustes, incluida la importación de archivos y hojas de estilo i18n y la carga de módulos iniciales.
+
+C) Solo puede importar archivos y hojas de estilo i18n.
+
+Respuesta correcta: B) Porque al ejecutar el comando ng add ng-zorro-antd, el proceso interactivo permite al usuario elegir varias opciones de configuración. Esto incluye la posibilidad de importar archivos y hojas de estilo i18n (internacionalización) y cargar los módulos iniciales necesarios para integrar completamente la biblioteca ng-zorro-antd en el proyecto Angular, proporcionando una configuración completa y personalizada desde el inicio.
+
+
+Pregunta 2
+¿Qué diseño sigue ng-zorro-antd para asegurar una apariencia profesional y coherente?
+
+A) Material Design
+
+B) Bootstrap Design
+
+C) Ant Design
+
+Respuesta correcta: C) Porque ng-zorro-antd está basado en Ant Design, un sistema de diseño que proporciona un conjunto de directrices y componentes para asegurar una apariencia profesional y coherente en las interfaces de usuario. Ant Design es conocido por su enfoque en la claridad, la consistencia y la estética moderna
+
+
+
+Pregunta 3
+¿Cuál es la principal ventaja de utilizar ng-zorro-antd en aplicaciones?
+
+A) Permite la integración con React sin problemas.
+
+B) Proporciona componentes reutilizables y personalizables para una interfaz de usuario coherente y moderna.
+
+C) Ofrece soporte nativo para bases de datos SQL.
+
+Respuesta correcta: B)Porque es una biblioteca de componentes UI diseñada específicamente para Angular, basada en Ant Design. Ofrece una amplia gama de componentes reutilizables y altamente personalizables que ayudan a crear una interfaz de usuario profesional, consistente y moderna, optimizando el proceso de desarrollo y mejorando la experiencia del usuario en aplicaciones empresariales y complejas.
+
