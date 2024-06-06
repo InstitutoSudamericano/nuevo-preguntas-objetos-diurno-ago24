@@ -1,0 +1,25 @@
+¿Cuál es el propósito principal de un servicio en NestJS?
+A) Proporcionar funcionalidades reutilizables.
+B) Manejar la lógica de presentación.
+C) Controlar el flujo de la aplicación.
+D) Realizar operaciones de entrada/salida.
+
+Respuesta correcta: A) Proporcionar funcionalidades reutilizables.
+Justificación: Los servicios en NestJS se utilizan para encapsular la lógica de negocio de una aplicación y proporcionar funcionalidades reutilizables.
+
+¿Qué decorador se utiliza para marcar una clase como un servicio en NestJS?
+A) @Service()
+B) @Injectable()
+C) @Component()
+D) @Provider()
+Respuesta correcta: B) @Injectable()Justificación: Los servicios en NestJS están decorados con @Injectable().
+
+
+¿Cómo ayuda la inyección de dependencias en NestJS?
+A) Permite intercambiar fácilmente diferentes implementaciones de un servicio.
+B) Acelera la ejecución del código.
+C) Reduce la cantidad de código necesario.
+D) Mejora la compatibilidad con otras plataformas.
+Respuesta correcta: A) Permite intercambiar fácilmente diferentes implementaciones de un servicio.Justificación: Al utilizar la inyección de dependencias, se pueden intercambiar fácilmente diferentes implementaciones de un servicio sin modificar el código que lo utiliza.
+
+link: https://youtu.be/AetqLkN-6N4

@@ -1,0 +1,27 @@
+¿Cuál es la función principal de los controladores en NestJS?
+
+A) Definir las rutas de la aplicación.
+B) Manejar las solicitudes HTTP entrantes.
+C) Inyectar dependencias.
+D) Preparar las respuestas de la aplicación.
+Respuesta correcta: B) Manejar las solicitudes HTTP entrantes. Los controladores en NestJS definen rutas y manejan las solicitudes entrantes.
+
+¿Qué ventaja proporciona el uso de controladores en NestJS según la reflexión dada?
+
+A) Mejora la velocidad de la aplicación.
+B) Facilita el mantenimiento y escalabilidad de las aplicaciones.
+C) Reduce el tamaño del código.
+D) Aumenta la seguridad de la aplicación.
+Respuesta correcta: B) Facilita el mantenimiento y escalabilidad de las aplicaciones. La reflexión menciona que el uso de controladores permite una estructura organizada y modular para manejar las solicitudes HTTP, lo que facilita el mantenimiento y la escalabilidad de las aplicaciones.
+ 
+¿Cuál es la analogía utilizada para describir el rol de los controladores en NestJS?
+
+A) Un chef que prepara los ingredientes para una receta.
+B) Un conductor de autobús que lleva a los pasajeros a su destino.
+C) Un recepcionista que recibe las solicitudes de los clientes y las dirige al personal adecuado.
+D) Un constructor que construye un edificio según los planos.
+Respuesta correcta: C) Un recepcionista que recibe las solicitudes de los clientes y las dirige al personal adecuado. La analogía compara el rol de los controladores en NestJS con el de un recepcionista que recibe las solicitudes de los clientes y las dirige al personal adecuado para su procesamiento.
+
+
+Enlace a video 
+https://youtu.be/QB0oQsgQ6xE

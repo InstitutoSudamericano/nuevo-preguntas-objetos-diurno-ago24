@@ -1,0 +1,28 @@
+Nombre: Daniela Muñoz
+### Preguntas Reflexivas:
+¿Qué sistema gestiona las dependencias entre componentes en NestJS?
+ 1. Inyección de dependencias 
+ 2. Módulos
+ 3. Servicios 
+ 4. Controladores
+
+Respuesta: a
+ NestJS utiliza el sistema de inyección de dependencias para administrar las dependencias entre los diferentes componentes de la aplicación
+
+¿Dónde se configuran las variables de entorno en NestJS? 
+1. En el archivo .env 
+2. En el archivo main.ts 
+3. En el archivo nest-cli.json
+4. En package.json
+
+Respuesta:a
+Puedes configurar variables de entorno en tu aplicación NestJS para gestionar diferentes entornos, como desarrollo, pruebas y producción.
+
+¿Qué concepto utiliza NestJS para organizar y estructurar la aplicación? 
+1. Decoradores 
+2. Módulos 
+3. Clases 
+4. Funciones
+
+Respuesta: b
+NestJS utiliza decoradores para definir controladores, servicios, módulos, etc. Es importante entender cómo funcionan estos decoradores y cómo se utilizan para organizar y estructurar tu aplicación

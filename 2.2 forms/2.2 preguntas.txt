@@ -1,0 +1,29 @@
+ Preguntas la Reutilización del Componente FORM
+
+1. ¿Cuál es una de las principales ventajas de reutilizar componentes en el desarrollo de software?
+   - A) Aumenta la complejidad del código
+   - B) Facilita el mantenimiento del código
+   - C) Dificulta la consistencia de la interfaz de usuario
+   - D) Reduce la eficiencia del desarrollo
+   -Respuesta Correcta:
+B) Facilita el mantenimiento del código
+Reutilizar componentes permite que cualquier cambio realizado en un componente se refleje automáticamente en todas las partes de la aplicación donde se usa. Esto simplifica el mantenimiento y evita la necesidad de modificar múltiples instancias del mismo código.
+
+2. En el contexto de formularios reutilizables, ¿qué técnica se utiliza para adaptar un formulario genérico a diferentes necesidades de la aplicación?
+   - A) Compilación
+   - B) Parametrización
+   - C) Minificación
+   - D) Serialización
+   - Respuesta Correcta:
+ B) Parametrización
+  La parametrización permite que un componente genérico, como un formulario, se configure mediante propiedades y estados específicos para adaptarse a diversos contextos y necesidades dentro de la aplicación, lo que lo hace altamente reutilizable.
+
+3. ¿Qué analogía se utiliza para describir la reutilización de componentes en el desarrollo de software?**
+   - A) Construcción de un puente
+   - B) Fabricación en serie de automóviles
+   - C) Diseño de planos de casas reutilizables
+   - D) Creación de una obra de arte única
+   - Respuesta Correcta:
+ C) Diseño de planos de casas reutilizables
+ La analogía del diseño de planos de casas reutilizables ilustra cómo los componentes de software pueden diseñarse para ser reutilizados en diferentes contextos, similar a cómo los planos de casas pueden ajustarse para diferentes terrenos y necesidades, permitiendo construir rápidamente y con coherencia.
+Video:  https://youtu.be/-2DYlv80yWs
