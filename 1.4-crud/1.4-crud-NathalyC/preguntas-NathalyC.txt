@@ -1,0 +1,24 @@
+Pregunta 1: ¿Qué método HTTP se utiliza típicamente para la operación de creación (Create) en una API REST?
+a) GET
+b) POST
+c) PUT
+
+Respuesta correcta: b) Porque POST es el método HTTP adecuado para la operación de creación (Create) en una API REST debido a su semántica y propósito de enviar datos para la creación de un nuevo recurso en el servidor.
+
+
+
+Pregunta 2: ¿En qué URL quedarán documentados todos los endpoints de la aplicación NestJS utilizando Swagger?
+a) http://localhost:3000/docs
+b) http://localhost:3000/api-docs
+c) http://localhost:3000/api
+
+Respuesta correcta: c) Porque  en el código de configuración de Swagger para la aplicación NestJS, se ha especificado el prefijo 'api' como el lugar donde se alojará la documentación.
+
+
+Pregunta 3: ¿Cuál es el propósito principal de la clase CreaturesDTO en el contexto del controlador de usuarios?
+a) Almacenar la configuración de la conexión con la base de datos
+b) Modelar el recurso "Creatures" a nivel del controlador
+c) Definir las rutas de los endpoints relacionados con los usuarios
+
+Respuesta correcta: b) Porque el propósito principal de la clase CreaturesDTO es actuar como un modelo de datos específico para el recurso "Creatures" en el contexto del controlador, permitiendo la transferencia estructurada de datos entre las capas de la aplicación y facilitando la validación y documentación de la API.
+

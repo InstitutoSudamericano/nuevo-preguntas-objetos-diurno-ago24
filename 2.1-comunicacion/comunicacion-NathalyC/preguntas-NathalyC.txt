@@ -1,0 +1,23 @@
+1. ¿Qué etiqueta se utiliza en Angular para indicar que una variable proviene del componente padre hacia el componente hijo?
+
+a) @Output
+b) @Inject
+c) @Input
+
+Respuesta correcta: c) Porque esta etiqueta marca una propiedad en el componente hijo como una propiedad de entrada, lo que significa que su valor puede ser establecido por el componente padre. Esto es útil para pasar datos del padre al hijo y facilitar la comunicación entre componentes en una aplicación Angular.
+
+2. ¿Cuál es el método de Angular utilizado para acceder a los atributos del hijo después de que la vista esté completamente cargada?
+
+a) ngOnInit()
+b) ngAfterContentInit()
+c) ngAfterViewInit()
+
+Respuesta correcta: c) Porque este método asegura que la vista completa, incluyendo los componentes hijos, esté completamente cargada y lista para ser manipulada.
+
+3. ¿Cuál es el mejor lugar para inyectar dependencias en un componente Angular?
+
+a) ngOnInit()
+b) El constructor
+c) ngAfterViewInit()
+
+Respuesta correcta: b) Porque es el lugar donde Angular realiza la inyección de dependencias, garantizando que todas las dependencias estén disponibles tan pronto como se crea el componente.

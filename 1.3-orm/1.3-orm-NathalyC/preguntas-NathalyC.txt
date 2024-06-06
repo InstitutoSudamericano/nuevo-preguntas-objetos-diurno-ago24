@@ -1,0 +1,19 @@
+1.- ¿Qué son los proveedores en Nest?
+a) Clases que gestionan el trabajo con los datos de la aplicación.
+b) Componentes esenciales utilizados para la inyección de dependencias.
+c) Conjunto de clases encargadas de realizar la inyección de servicios.
+Respuesta correcta: b)  La idea principal de un proveedor es permitir que los objetos creen relaciones entre sí, delegando en gran medida al sistema de ejecución de Nest la tarea de "conectar" estos objetos de manera eficiente.
+
+
+2.- ¿Cuál es uno de los principios básicos de la programación que la inyección de dependencia facilita?
+a) Separación del código por responsabilidades.
+b) Coordinación directa entre módulos de la aplicación.
+c) Dependencia directa entre clases y controladores.
+Respuesta correcta: a) Porque al separar las responsabilidades de esta manera, el código se vuelve más modular, fácil de mantener y de probar. Además, permite reutilizar componentes en diferentes partes de la aplicación y facilita la introducción de cambios sin afectar a otras partes del sistema.
+
+
+3.- ¿Qué tarea se realiza automáticamente por el CLI al generar las clases inyectables?
+a) Declaración de servicios.
+b) Configuración de controladores.
+c) Declaración de proveedores mediante el decorador @Module().
+Respuesta correcta: c) Porque esto se debe a que Nest.js utiliza el concepto de módulos para organizar y estructurar la aplicación. El decorador @Module() se utiliza para definir los módulos de la aplicación y en él se especifican los proveedores (incluidos servicios, controladores, etc.) que estarán disponibles dentro del módulo.
