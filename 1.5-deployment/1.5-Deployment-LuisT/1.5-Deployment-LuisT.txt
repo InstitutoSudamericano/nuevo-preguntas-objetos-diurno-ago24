@@ -1,0 +1,28 @@
+Preguntas 
+Luis Tinoco 
+
+¿Cuál de las siguientes afirmaciones describe mejor la operación "Actualizar" (Update) en CRUD?
+A) Elimina datos de la base de datos.
+B) Recupera datos de la base de datos.
+C) Modifica datos existentes en la base de datos.
+D) Crea una copia de seguridad de la base de datos.
+
+Respuesta correcta: C) Modifica datos existentes en la base de datos.
+
+En TypeScript, ¿qué tipo de estructura de datos es comúnmente utilizada para implementar operaciones CRUD en memoria?
+A) Array
+B) Set
+C) Map
+D) Tuple
+
+Respuesta correcta: A) Array
+
+¿Qué operación de CRUD se utiliza para eliminar datos de una base de datos?
+A) Leer (Read)
+B) Actualizar (Update)
+C) Crear (Create)
+D) Eliminar (Delete)
+
+Respuesta correcta: D) Eliminar (Delete)
+
+Link:https://youtu.be/dS4JYIl1Ifc

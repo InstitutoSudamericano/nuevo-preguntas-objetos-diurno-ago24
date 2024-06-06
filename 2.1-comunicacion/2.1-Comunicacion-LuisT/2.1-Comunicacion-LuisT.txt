@@ -1,0 +1,28 @@
+PREGUNTAS 
+Nombre:Luis Tinoco
+
+¿Cuál de los siguientes métodos NO es una forma de comunicación entre componentes en Angular?
+
+A) Input Binding
+B) Output Binding
+C) EventEmitter
+D) URL Routing
+Respuesta: D) URL Routing
+
+¿Qué decorador se utiliza para pasar datos de un componente padre a un componente hijo en Angular?
+
+A) @Output
+B) @ViewChild
+C) @Input
+D) @Injectable
+Respuesta: C) @Input
+
+¿Cómo puede un componente hijo enviar datos a un componente padre en Angular?
+
+A) Usando @Input
+B) Usando @Output y EventEmitter
+C) Usando @Inject
+D) Usando @ViewChild
+Respuesta: B) Usando @Output y EventEmitter
+
+Link:https://youtu.be/1Lck-OL9wag
