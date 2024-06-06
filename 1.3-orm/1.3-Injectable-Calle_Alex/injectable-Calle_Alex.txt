@@ -1,0 +1,26 @@
+Preguntas Semana 3
+by: Calle Alex
+youtube: https://youtu.be/R-T-f33lOtM
+
+1. ¿Cuál es la función del decorador @Injectable en NestJS?
+
+a) Define un módulo en la aplicación
+b) Permite la inyección de dependencias en una clase
+c) Define un controlador en la aplicación
+Respuesta: b) Permite la inyección de dependencias en una clase.
+
+
+2. ¿Qué tipo de entidad se utiliza para escribir la lógica de negocio en Nest.js?
+
+a) Controller
+b) Module
+c) Service
+Respuesta: c) Service.
+
+
+3. ¿Qué decorador se utiliza para agregar un encabezado de autorización a los documentos Swagger en NestJS?
+
+a) @ApiTags
+b) @ApiConsumes
+c) @UseInterceptors
+Respuesta: c) @UseInterceptors.

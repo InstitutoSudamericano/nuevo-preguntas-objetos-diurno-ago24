@@ -1,0 +1,30 @@
+Preguntas Semana 5
+
+youtube: "https://youtu.be/iIdhxNK19qs"
+
+Pregunta 1: ¿Cuál es la plataforma que ofrece un soporte integrado para frameworks como Express y Koa?
+
+A) Vercel
+B) Heroku
+C) AWS Elastic Beanstalk
+D) Google Cloud App Engine
+
+Respuesta: A) Vercel
+
+Pregunta 2: ¿Cuál de las siguientes plataformas ofrece integración con servicios de almacenamiento en la nube como S3 y RDS?
+
+A) Vercel
+B) Heroku
+C) AWS Elastic Beanstalk
+D) Microsoft Azure App Service
+
+Respuesta: C) AWS Elastic Beanstalk
+
+Pregunta 3: ¿Cuál es la plataforma que ofrece un soporte integrado para frameworks como Python, Java y Node.js?
+
+A) Vercel
+B) Heroku
+C) Google Cloud App Engine
+D) Microsoft Azure App Service
+
+Respuesta: C) Google Cloud App Engine

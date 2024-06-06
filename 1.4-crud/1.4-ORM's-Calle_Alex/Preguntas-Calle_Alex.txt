@@ -1,0 +1,28 @@
+Preguntas acerca los ORM's y las alternativas a Prisma
+
+youtube="https://youtu.be/A3zWf_1O-vo"
+
+Pregunta 1: ¿Cuál es el ORM mas popular para Node.js y JavaScript?
+
+A) TypeORM 
+B) Sequelize 
+C) Prisma 
+D) Mongoose
+Respuesta: C) Prisma
+
+Pregunta 2: ¿Qué alternativa a Prisma se basa en la base de datos MongoDB?
+
+A) TypeORM 
+B) Sequelize 
+C) Mongoose 
+D) Bookshelf
+Respuesta: C) Mongoose
+
+Pregunta 3: ¿Qué ORMs permiten definir modelos utilizando TypeScript interfaces o clases?
+
+A) TypeORM, Sequelize y Prisma 
+B) Solo TypeORM y Sequelize 
+C) Solo Prisma 
+D) Ninguno lo permite
+
+Respuesta: A) TypeORM, Sequelize y Prisma (TypeORM y Sequeulize permiten definir modelos utilizando TypeScript interfaces o clases, mientras que Prisma lo hace mediante el uso de tipos de datos).
