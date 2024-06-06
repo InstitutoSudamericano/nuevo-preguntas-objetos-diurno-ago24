@@ -1,0 +1,45 @@
+1. ¿Cuál es el módulo principal que debes importar en tu aplicación Angular para usar los formularios de NG-ZORRO?
+
+A. NzInputModule
+
+B. NzFormModule
+
+C. NzCheckboxModule
+
+Respuesta correcta: B. NzFormModule
+
+Explicación: Para usar los formularios de NG-ZORRO, necesitas importar el módulo NzFormModule en tu aplicación. 
+Este módulo contiene los componentes y directivas necesarios para trabajar con formularios en NG-ZORRO, como los 
+formularios de entrada, selectores y validadores.
+
+2. ¿Qué directiva de NG-ZORRO se utiliza para crear un campo de entrada con validación?
+
+A. nz-form-control
+
+B. nz-input
+
+C. nz-validate
+
+Respuesta correcta: A. nz-form-control
+
+Explicación: La directiva nz-form-control se utiliza en NG-ZORRO para crear un campo de entrada que incluya validación. 
+Esta directiva se usa en combinación con otros componentes de formulario para gestionar la entrada y la validación 
+de datos del usuario.
+
+
+3. ¿Cómo se establece un campo obligatorio en un formulario utilizando NG-ZORRO?
+
+A. Agregando la directiva required al campo de entrada.
+
+B. Usando la propiedad [nzRequired] en el componente nz-form-item.
+
+C. Añadiendo la clase required al campo de entrada.
+
+Respuesta correcta: B. Usando la propiedad [nzRequired] en el componente nz-form-item.
+
+Explicación: En NG-ZORRO, para establecer un campo obligatorio en un formulario, se utiliza la propiedad [nzRequired] en el componente nz-form-item. 
+Esto asegura que el campo se marcará como obligatorio y, en combinación con otras configuraciones de validación, 
+mostrará los mensajes de error correspondientes si el campo no es llenado adecuadamente.
+
+
+Link del video: https://www.youtube.com/watch?v=v66TbPuYFGQ
