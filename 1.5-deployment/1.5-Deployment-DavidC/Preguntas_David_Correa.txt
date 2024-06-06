@@ -1,0 +1,27 @@
+# David Correa
+
+---
+**Pregunta 4:** Después de modificar el archivo main.ts para usar await app.listen(process.env.PORT || 3000);, ¿qué efecto tiene esta línea de código?
+
+a) Establece el puerto de escucha en 3000 si la variable de entorno PORT no está definida.
+b) Establece el puerto de escucha en 3000 independientemente del valor de la variable de entorno PORT.
+c) Ignora la configuración del puerto y siempre utiliza el valor 3000.
+
+**Respuesta correcta:** a) Porque garantiza que la aplicación NestJS escuche en el puerto definido por la variable de entorno PORT si está disponible, de lo contrario, utilizará el puerto 3000 como valor predeterminado si la variable de entorno PORT no está definida o tiene un valor no válido. Esto proporciona flexibilidad en la configuración del puerto de escucha de la aplicación dependiendo del entorno de ejecución.
+
+**Pregunta 5:** ¿Qué hace el script "postinstall": "npx prisma generate && yarn build" en el archivo package.json durante el despliegue?
+
+a) Genera los archivos necesarios utilizando Prisma y luego compila el proyecto NestJS.
+b) Instala las dependencias del proyecto y luego ejecuta el comando de compilación.
+c) Ejecuta Prisma, genera el código y posteriormente genera la compilación del proyecto.
+
+**Respuesta correcta:** a) Porque en el archivo package.json realiza las tareas necesarias de generación de archivos utilizando Prisma y compilación del proyecto NestJS como parte del proceso de despliegue, asegurando que la aplicación esté lista para ser ejecutada en el entorno de producción.
+
+**Pregunta 6:** Después de modificar "start:prod": "node dist/src/main" en el archivo package.json, ¿qué comando se ejecutará al iniciar la aplicación en producción?
+
+a) node dist/src/main
+b) npm run start
+c) yarn start:prod
+
+**Respuesta correcta:** a) Porque al modificar "start:prod": "node dist/src/main" en el archivo package.json, el comando que se ejecutará al iniciar la aplicación en producción será node dist/src/main, lo que asegura que la aplicación NestJS compilada se inicie correctamente utilizando Node.js en un entorno de producción.
+```

@@ -1,0 +1,22 @@
+David Correa
+
+1. *¿Qué decorador se debe utilizar en NestJS para crear un controlador que maneje solicitudes de creación de nuevos registros?*
+   - A `@Put()`
+   - B `@Post()`
+   - C `@Get()`
+
+**Respuesta correcta:** B. El uso de `@Post()` indica al framework que el método designado es el responsable de procesar las solicitudes POST enviadas a la ruta especificada.
+
+2. *¿Cómo se puede acceder a un parámetro dinámico de ruta en un método de un controlador en NestJS?*
+   - A Utilizando el decorador `@Body()` para extraer el parámetro de la ruta.
+   - B Utilizando el decorador `@Query()` para capturar el parámetro de la ruta.
+   - C Utilizando el decorador `@Param()` para acceder al parámetro de la ruta.
+
+**Respuesta correcta:** C. El decorador `@Param()` en NestJS se utiliza para anotar un parámetro del método del controlador, permitiendo que los parámetros de la ruta sean accesibles dentro del método.
+
+3. *¿Cómo asegura NestJS que un controlador específico, como CatsController, sea reconocido y manejado por el framework?*
+   - A Registrando el CatsController directamente en el servidor principal de la aplicación.
+   - B Incluyendo CatsController en el array de controladores dentro del decorador `@Module()` en el módulo correspondiente.
+   - C Instalando un paquete npm adicional que automáticamente registre todos los controladores.
+
+**Respuesta correcta:** B. Porque debe ser incluido en el array de controladores en el decorador `@Module()` de algún módulo, típicamente en el módulo donde se va a usar o en el módulo raíz de la aplicación si no se especifica otro módulo. NestJS puede fácilmente identificar y crear instancias de los controladores listados, gestionando así las solicitudes dirigidas a sus rutas.

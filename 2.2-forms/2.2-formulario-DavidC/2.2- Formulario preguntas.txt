@@ -1,0 +1,36 @@
+Pregunta 1
+¿Qué componente de ng-zorro-antd asegura un diseño estructurado del formulario y organiza los elementos del mismo?
+
+A) nz-form-control
+
+B) nz-form-label
+
+C) nz-form-item
+
+Respuesta correcta: C) Porque este componente actúa como un contenedor que organiza los elementos del formulario, asegurando que cada campo esté claramente definido y separado de los demás. Al utilizar nz-form-item, se garantiza que el formulario mantenga una estructura coherente y ordenada, mejorando tanto la estética como la usabilidad.
+
+
+Pregunta 2
+¿Qué permite la gestión de controles del formulario mediante grupos y controles de formulario en Angular?
+
+A) Formularios Basados en Plantillas
+
+B) Formularios Reactivos
+
+C) Formularios Estáticos
+
+Respuesta correcta: B) Porque los formularios reactivos en Angular permiten la gestión estructurada y programática de los controles del formulario mediante FormGroup y FormControl. Esto facilita la manipulación del estado del formulario y sus validaciones de manera robusta y escalable, permitiendo también la implementación de validaciones complejas y asincrónicas.
+
+
+Pregunta 3
+¿Cuál es una ventaja clave de los formularios reactivos en Angular?
+
+A) Permiten la integración directa con bases de datos NoSQL.
+
+B) Proporcionan retroalimentación de validación en tiempo real.
+
+C) Son más adecuados para formularios simples y aplicaciones menos complejas.
+
+Respuesta correcta: B) Porque los formularios reactivos en Angular permiten validar los campos de manera instantánea a medida que el usuario interactúa con el formulario, proporcionando retroalimentación inmediata sobre la validez de los datos ingresados. Esto mejora la experiencia del usuario al permitirle corregir errores rápidamente y garantiza la integridad de los datos antes de ser enviados.
+
+
